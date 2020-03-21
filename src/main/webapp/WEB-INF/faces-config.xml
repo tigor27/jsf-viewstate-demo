@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<faces-config>
+ <protected-views>
+    <url-pattern>calc.xhtml</url-pattern>
+  </protected-views>
+</faces-config>
